@@ -47,6 +47,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -58,6 +59,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -79,7 +81,7 @@
       <workItem from="1596766034508" duration="143000" />
       <workItem from="1596766178281" duration="3049000" />
       <workItem from="1596769269568" duration="64000" />
-      <workItem from="1596769368923" duration="8000" />
+      <workItem from="1596769368923" duration="746000" />
     </task>
     <servers />
   </component>
@@ -115,9 +117,9 @@
       <screen x="0" y="23" width="1680" height="955" />
     </state>
     <state x="813" y="152" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1680.955@0.23.1680.955" timestamp="1596766815608" />
-    <state x="934" y="232" width="670" height="676" key="search.everywhere.popup" timestamp="1596768301300">
+    <state x="934" y="232" width="670" height="676" key="search.everywhere.popup" timestamp="1596769706390">
       <screen x="0" y="23" width="1680" height="955" />
     </state>
-    <state x="934" y="232" width="670" height="676" key="search.everywhere.popup/0.23.1680.955@0.23.1680.955" timestamp="1596768301300" />
+    <state x="934" y="232" width="670" height="676" key="search.everywhere.popup/0.23.1680.955@0.23.1680.955" timestamp="1596769706390" />
   </component>
 </project>
