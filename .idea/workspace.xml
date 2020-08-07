@@ -81,7 +81,7 @@
       <workItem from="1596766034508" duration="143000" />
       <workItem from="1596766178281" duration="3049000" />
       <workItem from="1596769269568" duration="64000" />
-      <workItem from="1596769368923" duration="746000" />
+      <workItem from="1596769368923" duration="2236000" />
     </task>
     <servers />
   </component>
@@ -117,9 +117,9 @@
       <screen x="0" y="23" width="1680" height="955" />
     </state>
     <state x="813" y="152" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1680.955@0.23.1680.955" timestamp="1596766815608" />
-    <state x="934" y="232" width="670" height="676" key="search.everywhere.popup" timestamp="1596769706390">
+    <state x="934" y="232" width="670" height="676" key="search.everywhere.popup" timestamp="1596770521053">
       <screen x="0" y="23" width="1680" height="955" />
     </state>
-    <state x="934" y="232" width="670" height="676" key="search.everywhere.popup/0.23.1680.955@0.23.1680.955" timestamp="1596769706390" />
+    <state x="934" y="232" width="670" height="676" key="search.everywhere.popup/0.23.1680.955@0.23.1680.955" timestamp="1596770521053" />
   </component>
 </project>
