@@ -26,9 +26,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56907f75-1675-4a8f-8534-0550f1a877a9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +82,7 @@
       <workItem from="1596766034508" duration="143000" />
       <workItem from="1596766178281" duration="3049000" />
       <workItem from="1596769269568" duration="64000" />
-      <workItem from="1596769368923" duration="7468000" />
+      <workItem from="1596769368923" duration="10204000" />
     </task>
     <servers />
   </component>
@@ -114,6 +114,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="980" y="309" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596787429990">
+      <screen x="0" y="23" width="1680" height="955" />
+    </state>
+    <state x="980" y="309" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.955@0.23.1680.955" timestamp="1596787429990" />
     <state x="813" y="152" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1596766815608">
       <screen x="0" y="23" width="1680" height="955" />
     </state>
