@@ -27,6 +27,7 @@
   <component name="ChangeListManager">
     <list default="true" id="56907f75-1675-4a8f-8534-0550f1a877a9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -81,7 +82,7 @@
       <workItem from="1596766034508" duration="143000" />
       <workItem from="1596766178281" duration="3049000" />
       <workItem from="1596769269568" duration="64000" />
-      <workItem from="1596769368923" duration="2236000" />
+      <workItem from="1596769368923" duration="3566000" />
     </task>
     <servers />
   </component>
@@ -117,9 +118,9 @@
       <screen x="0" y="23" width="1680" height="955" />
     </state>
     <state x="813" y="152" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1680.955@0.23.1680.955" timestamp="1596766815608" />
-    <state x="934" y="232" width="670" height="676" key="search.everywhere.popup" timestamp="1596770521053">
+    <state x="934" y="232" width="670" height="676" key="search.everywhere.popup" timestamp="1596772988448">
       <screen x="0" y="23" width="1680" height="955" />
     </state>
-    <state x="934" y="232" width="670" height="676" key="search.everywhere.popup/0.23.1680.955@0.23.1680.955" timestamp="1596770521053" />
+    <state x="934" y="232" width="670" height="676" key="search.everywhere.popup/0.23.1680.955@0.23.1680.955" timestamp="1596772988448" />
   </component>
 </project>
