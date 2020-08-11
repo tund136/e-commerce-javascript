@@ -186,7 +186,6 @@ class UI {
                     this.removeItem(id);
                 }
             }
-
         });
     }
 
